@@ -1,8 +1,8 @@
 # hackaton-proyecto_final-
 Proyecto Kodland
 
-# La idea
-> Tener un bot que te clasifique un objeto correctamente, ya sea por imagen, o por texto.
+# ¿Que es bot IA y como funciona?
+< El bot IA es un bot de discord que se puede agregar a cualquier servidor. Su funcion es de clasificar en que bote de recyclaje va cada objeto. Por ejemplo, identifica si algo es comida, o algo orgánico, y te dice que lo pongas en el basurero verde.
 
-# Como se hará
->El bot lo puedes poner en modo de que acepte una imagen, o que le escribas, y te dice como reciclarlo.
+# 
+
